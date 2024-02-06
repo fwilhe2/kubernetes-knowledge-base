@@ -11,3 +11,7 @@ minikube config set rootless true
 minikube start --driver=podman --container-runtime=containerd
 alias kubectl="minikube kubectl --"
 ```
+
+## fedora
+
+https://docs.fedoraproject.org/en-US/quick-docs/using-kubernetes/
